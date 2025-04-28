@@ -1,0 +1,5 @@
+Contract Test() {
+  fn main() -> () {
+    let test = blah
+  }
+}
